@@ -12,7 +12,7 @@ class _Page_ServicosState extends State<Page_Servicos> {
       backgroundColor: Colors.white,
       appBar: AppBar(
         backgroundColor: Colors.green,
-        title: Text("Empresa"),
+        title: Text("Serviços"),
       ),
       body: SingleChildScrollView(
         child: Container(
