@@ -12,7 +12,7 @@ class _Page_ContatoState extends State<Page_Contato> {
       backgroundColor: Colors.white,
       appBar: AppBar(
         backgroundColor: Colors.green,
-        title: Text("Empresa"),
+        title: Text("Contato"),
       ),
       body: SingleChildScrollView(
         child: Container(
