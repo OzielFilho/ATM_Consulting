@@ -12,7 +12,7 @@ class _Page_clientesState extends State<Page_clientes> {
       backgroundColor: Colors.white,
       appBar: AppBar(
         backgroundColor: Colors.green,
-        title: Text("Empresa"),
+        title: Text("Clientes"),
       ),
       body: SingleChildScrollView(
         child: Container(
